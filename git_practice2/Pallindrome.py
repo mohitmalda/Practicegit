@@ -10,4 +10,4 @@ while(i<j):
 if(isPallindrome):
     print("The String is Pallindrome")
 else:
-    print("The String is not Pallindrome")
+    print("The String is not Pallindrome hi")
